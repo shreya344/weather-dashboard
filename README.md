@@ -17,7 +17,7 @@ A clean and responsive web application to check real-time weather updates by cit
 ---
 
 ## 🔗 Live Demo
-👉 [Click to View Live](#) 
+👉 [Click to View Live](https://shreya344.github.io/weather-dashboard/) 
 ---
 
 ## 📂 Tech Stack
